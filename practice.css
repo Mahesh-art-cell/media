@@ -1,0 +1,13 @@
+img:hover{
+    width: 200px;
+    padding: 20px;
+    background-color: blue;
+    opacity: 0.8;
+}
+img{
+    transition: all ease-in 5s 2s ;
+}
+input:hover{
+    padding: 100px;
+    border-radius: 50%;
+}
